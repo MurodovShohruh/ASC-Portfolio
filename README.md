@@ -60,15 +60,11 @@ Katta yuklamaga bardoshli backend tizimlari, microservices arxitekturasi va zamo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurodovShohruh&theme=tokyo-night&hide_border=true&area=true&color=00f7ff&bg_color=0f2027" alt="Contribution Graph"/>
 </p>
 
----
-
 ## 🐍 Neon Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MurodovShohruh/MurodovShohruh/output/snake-neon.svg" alt="Neon Snake"/>
+  <img src="https://raw.githubusercontent.com/MurodovShohruh/MurodovShohruh/output/snake-neon-hard.svg" alt="Neon Snake"/>
 </p>
-
----
 
 ## 📊 GitHub Stats
 
