@@ -9,7 +9,7 @@
 ---
 
 ## 🧠 About Me
-```diff
+
 ---
 
 ## 🚀 Tech Stack
