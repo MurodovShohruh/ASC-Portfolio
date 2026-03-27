@@ -10,11 +10,17 @@
 
 ## 🧠 About Me
 
-Backend architect bo‘lib, katta miqyosli tizimlar quraman.  
-Clean architecture, high availability va performance — mening asosiy e’tiborim.
+Salom! Men **Murodov Shohruh** — Backend Architect va scalable tizimlar quruvchiman.  
 
-- **Current Focus**: Microservices, Distributed Systems, Cloud-Native Development
-- **Philosophy**: "Code is not just working — it must scale, be maintainable and beautiful."
+Hozirda katta yuklamaga bardoshli, yuqori tezlikdagi backend tizimlarini loyihalashtirish va rivojlantirish bilan shug‘ullanaman. Clean Architecture, Domain-Driven Design va Microservices yondashuvlarini qo‘llab, loyihalarni production darajasida barpo etaman.
+
+- **Asosiy yo‘nalishlarim**:  
+  - Yuqori yuklamali API lar va Distributed Systems  
+  - Microservices architecture va Event-Driven Development  
+  - Cloud-native ilovalar (Docker, Kubernetes)  
+  - Performance optimization va Reliable code yozish  
+
+Men uchun kod nafaqat ishlasin, balki **tez, xavfsiz, oson kengaytiriladigan** va kelajakda ham qulay bo‘lishi kerak.
 
 ---
 
@@ -63,14 +69,14 @@ Clean architecture, high availability va performance — mening asosiy e’tibor
 
 ## 📬 Contact
 
-- 📧 **Murodovshohruh2003@gmail.com**
-- 🔗 GitHub: [MurodovShohruh](https://github.com/MurodovShohruh)
+- 📧 **Murodovshohruh2003@gmail.com**  
+- 🔗 GitHub: **[MurodovShohruh](https://github.com/MurodovShohruh)**
 
 ---
 
 ## 🧬 Philosophy
 
-> ⚡ "Code is not just working — it must scale."
+> ⚡ "Code is not just working — it must scale, be maintainable and beautiful."
 
 ---
 
