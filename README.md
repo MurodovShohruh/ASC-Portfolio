@@ -1,10 +1,9 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=200&section=header&text=Murodov%20Shohruh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=68&descSize=18" alt="Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6EB5FF&size=20&center=true&vCenter=true&width=600&lines=Node.js+%7C+NestJS+%7C+TypeScript;Docker+%7C+PostgreSQL+%7C+Redis;React+%7C+Three.js+%7C+TailwindCSS" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;color=6EB5FF&amp;size=20&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Node.js+%7C+NestJS+%7C+TypeScript;Docker+%7C+PostgreSQL+%7C+Redis;React+%7C+Three.js+%7C+TailwindCSS" alt="Typing SVG"/>
 </p>
 
 ---
