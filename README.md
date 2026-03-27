@@ -80,7 +80,7 @@ Hozirda TypeScript + NestJS stackida chuqur ishlayapman va Go tilini faol rivojl
 ---
 
 ## 🌐 Portfolio & Links
-👉 **[murodovshohruh.vercel.app]([(https://murodovshohruh.github.io/MurodovShohruh/)])**
+👉 **[/murodovshohruh.github.io]([(https://murodovshohruh.github.io/MurodovShohruh/)])**
 
 ---
 
