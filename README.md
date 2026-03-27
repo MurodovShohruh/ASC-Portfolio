@@ -1,124 +1,97 @@
-# 🌌 ASC Portfolio — MurodovShohruh
+# 🌌 ASC | Architect of Scalable Code
 
-> **Architect of Scalable Code** — React + Vite + Three.js + Framer Motion
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=ASC%20|%20Backend%20Architect&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Scalable+Systems+Builder;Backend+%26+Cloud+Developer;Clean+Code+Advocate;Microservices+Architect" />
+</p>
 
 ---
 
-## ⚡ Ishga tushirish
+## 🧠 About Me
 
-```bash
-# 1. O'rnatish
-npm install
-
-# 2. Dev server
-npm run dev
-
-# 3. Build
-npm run build
+```diff
++ Backend Developer (Node.js / API / Microservices)
++ Cloud Architecture Enthusiast
++ Performance & Scalability focused
++ Clean Code = Real Power
 ```
 
 ---
 
-## 📁 Fayl tuzilmasi
+## 🚀 Tech Stack
 
-```
-src/
-├── app/
-│   └── layout.jsx          # Navbar + Footer (multi-language)
-├── components/
-│   ├── ui/
-│   │   ├── Button.jsx       # Primary + Ghost tugmalar
-│   │   ├── Card.jsx         # Hover animatsiyali karta
-│   │   └── Container.jsx    # Section wrapper
-│   ├── sections/
-│   │   ├── Hero.jsx         # Bosh sahifa
-│   │   ├── About.jsx        # Skills + Stats
-│   │   ├── Projects.jsx     # GitHub API proyektlar
-│   │   └── Contact.jsx      # Contact form + social links
-│   └── 3d/
-│       └── Scene.jsx        # Three.js yulduzlar
-├── hooks/
-│   ├── useGithubRepos.js    # GitHub API hook
-│   └── useScrollAnimation.js
-├── store/
-│   └── useStore.js          # Zustand state
-├── services/
-│   └── githubService.js     # GitHub API service
-├── utils/
-│   └── constants.js         # Skills, Stats, i18n (UZ/EN/RU)
-├── styles/
-│   └── globals.css
-├── App.jsx                  # Root + lazy loading
-└── main.jsx
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,vite,tailwind,threejs,docker,postgres,mongodb,git,github" />
+</p>
 
 ---
 
-## 🌍 Multi-language
+## 🌌 3D Contribution Graph
 
-`src/utils/constants.js` ichidagi `LANG` obyektiga tarjimalar qo'shilgan:
-- 🇺🇿 O'zbekcha (`uz`)
-- 🇬🇧 English (`en`)
-- 🇷🇺 Русский (`ru`)
-
-Navbar'dagi tugmalar orqali almashtiriladi.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurodovShohruh&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-## 🔗 GitHub API sozlash
+## 🐍 Neon Snake
 
-`src/services/githubService.js` faylida username'ni o'zgartiring:
-
-```js
-USERNAME: 'MurodovShohruh', // ← shu yerda
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MurodovShohruh/MurodovShohruh/output/snake-neon.svg" />
+</p>
 
 ---
 
-## 📬 Contact Form ulash
+## 📊 GitHub Stats
 
-`src/components/sections/Contact.jsx` ichidagi `handleSubmit` funksiyasida:
-
-**Variant 1 — Formspree:**
-```js
-const res = await fetch('https://formspree.io/f/YOUR_ID', {
-  method: 'POST',
-  headers: { 'Content-Type': 'application/json' },
-  body: JSON.stringify(form),
-})
-```
-
-**Variant 2 — FormSubmit:**
-```html
-<!-- index.html ichiga qo'shing -->
-<form action="https://formsubmit.co/your@email.com" method="POST">
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MurodovShohruh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🚀 Stack
+## 🔥 Top Languages
 
-| Texnologiya | Maqsad |
-|---|---|
-| React 18 + Vite | Ultra-fast SPA |
-| Three.js / R3F | 3D yulduzlar fon |
-| Framer Motion | Smooth animatsiyalar |
-| Zustand | Global state |
-| TailwindCSS | Utility styling |
-| GitHub API | Real proyektlar |
-| Axios | HTTP so'rovlar |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurodovShohruh&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🌐 Deploy (Vercel)
+## 🌐 Portfolio
 
-```bash
-npm run build
-# dist/ papkasini Vercel'ga yuklang
-# yoki: vercel --prod
-```
+👉 https://your-domain.vercel.app
 
 ---
 
-🚀 **ASC — Architect of Scalable Code**
+## 📬 Contact
 
+* 📧 [Murodovshohruh2003@gmail.com](mailto:Murodovshohruh2003@gmail.com)
+
+---
+
+## 🧬 Philosophy
+
+<p align="center">
+
+> ⚡ “Code is not just working — it must scale.”
+
+</p>
+
+---
+
+## 👁 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MurodovShohruh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
