@@ -1,9 +1,9 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import { viteStaticCopy } from 'vite-plugin-static-copy'  // 3.x versiya uchun
+import { viteStaticCopy } from 'vite-plugin-static-copy'
 
 export default defineConfig({
-  base: '/asc-portfolio/',  // GitHub Pages repo nomi
+  base: '/MurodovShohruh/',  // 👈 GitHub Pages repo nomiga mos
   plugins: [
     react(),
     viteStaticCopy({
@@ -13,6 +13,6 @@ export default defineConfig({
     })
   ],
   build: {
-    outDir: 'dist' // GitHub Actions workflow shu papkani oladi
+    outDir: 'dist'
   }
 })
