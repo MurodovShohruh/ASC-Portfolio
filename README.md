@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=200&section=header&text=Murodov%20Shohruh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Backend%20%242575%20Full-Stack%20Developer&descAlignY=68&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=200&section=header&text=Murodov%20Shohruh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Backend%20%2475%20Full-Stack%20Developer&descAlignY=68&descSize=18" alt="Header"/>
 </p>
 
 <p align="center">
