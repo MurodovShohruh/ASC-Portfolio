@@ -11,12 +11,12 @@
 
 Salom! Men **Murodov Shohruh** — Backend Architect va Full-Stack developer.  
 
-Backend va frontend tizimlarini yarataman, shuningdek interaktiv 3D veb tajribalar (Three.js + React) bilan ishlayman. Kodimni toza, oson kengaytiriladigan va samarali qilish mening asosiy printsipim.
+Backend va frontend tizimlarini yarataman, shuningdek interaktiv 3D veb tajribalar (Three.js + React) ni boshjangich bilimiga egaman. Kodimni toza, oson kengaytiriladigan va samarali qilish mening asosiy printsipim.
 
 **Hozirgi fokusim**:  
-- Tezkor va ishonchli backend tizimlari (Node.js + NestJS) 
+- Tezkor va ishonchli backend tizimlari 
 - Event-driven va microservices arxitekturalari
-- Interaktiv 3D sahnalar va vizualizatsiyalar (Three.js / React Three Fiber) 
+- Interaktiv 3D sahnalar va vizualizatsiyalar  
 - Kodning kelajakda kengaytirilishi va oson saqlanishi
 
 ---
@@ -45,7 +45,6 @@ Backend va frontend tizimlarini yarataman, shuningdek interaktiv 3D veb tajribal
 - **🎨 TailwindCSS** — Tez va chiroyli dizayn
 
 **Backend & System Development**
-- **🔗 Node.js + NestJS** — REST va GraphQL API lar
 - **🐍 Python** — Skriptlar, ma’lumotlarni qayta ishlash, AI integratsiyasi
 - **🐳 Docker + Kubernetes** — Loyihalarni konteynerga joylash va ishga tushirish
 
