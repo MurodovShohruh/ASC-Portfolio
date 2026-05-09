@@ -25,7 +25,7 @@ Backend va frontend tizimlarini yarataman, shuningdek interaktiv 3D veb tajribal
 
 ### Backend & Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,python,postgresql,mongodb&perline=5" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,postgresql,mongodb&perline=5" />
 </p>
 
 ### Frontend
