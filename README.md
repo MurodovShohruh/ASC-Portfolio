@@ -94,6 +94,11 @@ Hozir **Python** yordamida elektron qurilmalar simulyatsiyasi va signal tahlili 
 </p>
 
 ---
+## 👁 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MurodovShohruh&label=Profile%20Views&color=00f7ff&style=flat&base=2000" alt="Profile Views"/>
+</p>
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=130&section=footer"/>
