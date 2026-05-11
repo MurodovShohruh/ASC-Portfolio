@@ -88,6 +88,12 @@ Hozir **Python** yordamida elektron qurilmalar simulyatsiyasi va signal tahlili 
 > *"Har bir kod qatori — muammoning yechimi bo'lsin."*
 
 ---
+## 🐍 Neon Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MurodovShohruh/MurodovShohruh/output/snake-neon-hard.svg" alt="Neon Snake"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=130&section=footer"/>
